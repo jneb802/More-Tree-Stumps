@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DLL=JotunnModStub/bin/Debug/JotunnModStub.dll
+DLL=MoreTreeStumps/bin/Debug/MoreTreeStumps.dll
 PLUGINS=/home/$USER/.local/share/Steam/steamapps/common/Valheim/BepInEx/plugins
 
 # Check that source files exist and are readable
